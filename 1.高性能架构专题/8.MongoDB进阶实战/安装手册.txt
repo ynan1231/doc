@@ -1,0 +1,8 @@
+1.官网下载安装介质：https://www.mongodb.com/download-center，选择适当的版本，这里以linux版本为例；
+2.解压到系统某路径， tar -xvzf mongodb-linux-x86_64-rhel70-3.4.10.tgz
+     并在安装目录创建data目录，以及logs目录和logs/mongodb.log文件
+3.使用vim在mongodb的bin目录创建mongodb的配置文件，请见mongodb.conf；
+4.编写shell脚本，命名为start-mongodb.sh，脚本内容如下：
+     nohup ./mongod -f mongodb.conf &
+5.使用start-mongodb.sh启动mongodb实例，如：./start-mongodb
+6.使用mongoClient进行测试，通过restAPI地址测试（端口加1000）

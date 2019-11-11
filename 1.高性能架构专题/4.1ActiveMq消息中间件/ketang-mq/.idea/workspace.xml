@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="delayOrder:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f76b608-2c25-420e-bb64-a67c90984904" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/no-spring/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/am-with-spring-p/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/am-with-spring-p/am-with-spring-c/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/am-with-sprimg-c/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/am-with-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/asyncApp/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/am-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/activemq/delayOrder/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq/native/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JmsMsProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsMsProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MqProducer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/mq/MqProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="59" column="28" lean-forward="true" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JmsMsConsumerAsyn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsMsConsumerAsyn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DEFAULT_USER</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/activemq/am-with-spring-p/src/main/webapp/WEB-INF/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/activemq/am-with-spring-p/src/main/java/cn/enjoyedu/queue/GetResponse.java" />
+        <option value="$PROJECT_DIR$/activemq/am-with-spring-p/src/main/java/cn/enjoyedu/queue/QueueSender.java" />
+        <option value="$PROJECT_DIR$/activemq/am-with-sprimg-c/src/main/webapp/WEB-INF/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/activemq/am-with-sprimg-c/src/main/java/cn/enjoyedu/queue/ReplyTo.java" />
+        <option value="$PROJECT_DIR$/activemq/am-with-sprimg-c/src/main/java/cn/enjoyedu/queue/QueueReceiver1.java" />
+        <option value="$PROJECT_DIR$/activemq/asyncApp/src/main/java/cn/enjoyedu/service/reg/impl/MqProcess.java" />
+        <option value="$PROJECT_DIR$/activemq/asyncApp/src/main/webapp/WEB-INF/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/embed/EmbedMQ.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablityProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsConsumerVipAny.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsConsumerVipRedis.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsConsumerAllAny.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsWildcardsProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsWildcardsProducerB.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsWildcardsProducerC.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/dlq/ProcessDlqConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerB.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerA2.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerTopicA.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerQueueA.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerQueueB.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerTopicB.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerOtherQueue.java" />
+        <option value="$PROJECT_DIR$/activemq/am-springboot/src/main/java/cn/enjoyedu/replyto/ConsumerR.java" />
+        <option value="$PROJECT_DIR$/activemq/am-springboot/src/main/java/cn/enjoyedu/replyto/ProducerR.java" />
+        <option value="$PROJECT_DIR$/activemq/am-springboot/src/test/java/cn/enjoyedu/AmSpringbootApplicationTests.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/durabletopic/JmsDurableTopicConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/durabletopic/JmsDurableTopicConsumerOther.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/durabletopic/JmsDurableTopicProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablitySendProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablityTranProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablityConsumerAsyn.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablityConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/dlq/DlqConsumer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerA.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerC.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/am-with-spring-p/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsConsumerAsyn.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/exchange/direct/DirectProducer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/exchange/direct/Consumer1.java" />
+        <option value="$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/mq/MqProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/busi/SaveOrder.java" />
+        <option value="$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/delay/impl/DqMode.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsMsProducer.java" />
+        <option value="$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsMsConsumerAsyn.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="width" value="1500" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoyedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoyedu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoyedu" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoyedu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="delayOrder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoyedu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="no-spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="no-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="no-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="no-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ketang-mq" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+              <item name="no-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoyedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.activemq:activemq-all:5.8.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.activemq:activemq-all:5.8.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activemq-all-5.8.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.activemq:activemq-all:5.8.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activemq-all-5.8.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.activemq:activemq-all:5.8.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activemq-all-5.8.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ketang-mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.activemq:activemq-all:5.8.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activemq-all-5.8.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="activemq" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/activemq" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2505747" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\XiangXue\vipLesson\MQ\code\ketang-mq\activemq\delayOrder\src\main\java\cn\enjoyedu\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.enjoyedu.usemq" />
+      <recent name="cn.enjoyedu.wildcards" />
+      <recent name="cn.enjoyedu.msgreliability" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XiangXue\vipLesson\MQ\code\ketang-mq\rabbitmq\native\src\main\java\cn\enjoyedu" />
+      <recent name="D:\XiangXue\vipLesson\MQ\code\ketang-mq\activemq\no-spring\src\main\java\cn\enjoyedu" />
+      <recent name="D:\XiangXue\vipLesson\MQ\code\ketang-mq\activemq\no-spring\src\main\java\cn\enjoyedu\msgreliability" />
+      <recent name="D:\XiangXue\vipLesson\MQ\code\ketang-mq\activemq\delayOrder\src\main\java\cn\enjoyedu" />
+      <recent name="D:\XiangXue\vipLesson\MQ\code\ketang-mq\activemq\delayOrder\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JmsMsProducer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="CdConsumerTopicA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.compositedest.CdConsumerTopicA" />
+      <module name="no-spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CdProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.compositedest.CdProducer" />
+      <module name="no-spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JmsConsumerAsyn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.usemq.JmsConsumerAsyn" />
+      <module name="no-spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JmsMsConsumerAsyn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.usemq.JmsMsConsumerAsyn" />
+      <module name="no-spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JmsMsProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.usemq.JmsMsProducer" />
+      <module name="no-spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AmSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="am-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoyedu.AmSpringbootApplication" />
+    </configuration>
+    <configuration name="WithSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="with-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoyedu.WithSpringbootApplication" />
+    </configuration>
+    <configuration name="am-spring-c" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/am-spring-c/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="am-with-sprimg-c:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/am-spring-c" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ketang-mq_2" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1100" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65194" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="am-with-sprimg-c:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="am-with-spring-p" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="am-with-spring-p:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/am-with-spring-p" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ketang-mq_6" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59449" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="am-with-spring-p:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="asyncApp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/asyncApp/index" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="asyncApp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/asyncApp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ketang-mq_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52093" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="asyncApp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="delayOrder" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/delayOrder/index" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="delayOrder:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/delayOrder" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ketang-mq_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52926" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="delayOrder:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WithSpringbootApplication" />
+      <item itemvalue="Spring Boot.AmSpringbootApplication" />
+      <item itemvalue="Tomcat Server.delayOrder" />
+      <item itemvalue="Tomcat Server.asyncApp" />
+      <item itemvalue="Tomcat Server.am-spring-c" />
+      <item itemvalue="Tomcat Server.am-with-spring-p" />
+      <item itemvalue="Application.CdConsumerTopicA" />
+      <item itemvalue="Application.CdProducer" />
+      <item itemvalue="Application.JmsMsConsumerAsyn" />
+      <item itemvalue="Application.JmsConsumerAsyn" />
+      <item itemvalue="Application.JmsMsProducer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JmsMsProducer" />
+        <item itemvalue="Application.JmsMsConsumerAsyn" />
+        <item itemvalue="Application.JmsConsumerAsyn" />
+        <item itemvalue="Application.CdProducer" />
+        <item itemvalue="Application.CdConsumerTopicA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f76b608-2c25-420e-bb64-a67c90984904" name="Default" comment="" />
+      <created>1542850388878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542850388878</updated>
+      <workItem from="1542850392048" duration="2618000" />
+      <workItem from="1542855238549" duration="35812000" />
+      <workItem from="1543283381931" duration="26194000" />
+      <workItem from="1543385299262" duration="1515000" />
+      <workItem from="1543398041851" duration="13000" />
+      <workItem from="1543590071362" duration="14214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AmSpringbootApplicationTests_testQueueNormal - 2018.11.25 at 15h 15m 37s.xml">
+      <configuration name="AmSpringbootApplicationTests.testQueueNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testTopicNormal - 2018.11.25 at 15h 16m 10s.xml">
+      <configuration name="AmSpringbootApplicationTests.testTopicNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testTopicNormal - 2018.11.25 at 15h 17m 22s.xml">
+      <configuration name="AmSpringbootApplicationTests.testTopicNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testQueueNormal - 2018.11.25 at 20h 42m 57s.xml">
+      <configuration name="AmSpringbootApplicationTests.testQueueNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testTopicNormal - 2018.11.25 at 20h 48m 54s.xml">
+      <configuration name="AmSpringbootApplicationTests.testTopicNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testReplyTo - 2018.11.27 at 20h 13m 50s.xml">
+      <configuration name="AmSpringbootApplicationTests.testReplyTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testReplyTo - 2018.11.27 at 20h 14m 06s.xml">
+      <configuration name="AmSpringbootApplicationTests.testReplyTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testReplyTo - 2018.11.27 at 20h 15m 07s.xml">
+      <configuration name="AmSpringbootApplicationTests.testReplyTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testReplyTo - 2018.11.27 at 20h 15m 27s.xml">
+      <configuration name="AmSpringbootApplicationTests.testReplyTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmSpringbootApplicationTests_testReplyTo - 2018.11.27 at 20h 16m 35s.xml">
+      <configuration name="AmSpringbootApplicationTests.testReplyTo" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80366000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1200" height="840" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.42419824" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32507288" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43586007" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.2714536" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="JSF" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" weight="0.2714536" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36588922" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32944608" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37026238" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="7" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3265306" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32944608" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32944608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23773266" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsWildcardsProducerC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsConsumerVipRedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/wildcards/JmsConsumerAllAny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablityConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablitySendProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/msgreliability/JmsMsgReliablityConsumerAsyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/dlq/DlqConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="33" column="21" selection-start-line="37" selection-start-column="51" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/dlq/DlqProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="46" column="76" lean-forward="true" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/dlq/ProcessDlqConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtConsumerA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/virtualtopic/VtProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerTopicA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerOtherQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerQueueB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/compositedest/CdConsumerQueueA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/am-with-spring-p/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.0.0/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/producer/producerconfirm/ProducerConfirmAsync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="e#967#1222#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1262#1517#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/consumer/normal/Consumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/consumer/normal/Consumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/producer/producerconfirm/ProducerConfirm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/producer/normal/DirectProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/producer/normal/FanoutProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="47" selection-start-line="47" selection-end-line="48" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.0.0/amqp-client-5.0.0-sources.jar!/com/rabbitmq/client/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-464">
+          <caret line="580" column="20" selection-start-line="580" selection-start-column="20" selection-end-line="580" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/exchange/direct/DirectProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/exchange/direct/Consumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/native/src/main/java/cn/enjoyedu/exchange/direct/Consumer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/vo/ItemVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/delay/IDelayOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/model/order_exp.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/dao/OrderExpDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/model/OrderExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/resources/mapper/OrderExpMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="146" column="28" lean-forward="true" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/busi/DlyOrderProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/busi/SaveOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/delay/impl/DqMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/mq/MqConsume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.8.0/activemq-all-5.8.0.jar!/org/apache/activemq/ActiveMQConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="99" column="85" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsConsumerAsyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsMsConsumerAsyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/no-spring/src/main/java/cn/enjoyedu/usemq/JmsMsProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq/delayOrder/src/main/java/cn/enjoyedu/service/mq/MqProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="59" column="28" lean-forward="true" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>am-with-sprimg-c:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2505747" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2505747" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2505747" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ketang-mq</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2505747" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-access:1.0.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

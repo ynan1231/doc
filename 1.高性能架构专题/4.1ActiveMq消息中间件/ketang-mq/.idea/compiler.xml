@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="am-springboot" />
+        <module name="am-with-sprimg-c" />
+        <module name="am-with-spring-p" />
+        <module name="asyncApp" />
+        <module name="delayOrder" />
+        <module name="native" />
+        <module name="no-spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="am-with-spring-c" target="1.5" />
+      <module name="am-with-springboot" target="1.5" />
+      <module name="with-springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
