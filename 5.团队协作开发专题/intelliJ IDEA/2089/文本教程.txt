@@ -1,0 +1,11 @@
+1、电脑断网操作最为方便。
+
+2、将激活说明中 jetbrains-agent.jar文件复制到软件的安装位置里。
+
+3、打开软件  （如果打不开软件，可以使用   离线激活码   激活下软件再继续操作）
+     点击菜单栏 Help -> Edit Custom VM Options加入下列一行内容：
+
+-javaagent:XX/jetbrains-agent.jar
+（XX为软件的安装路径）
+
+4、重启软件，必须重启软件。然后用激活码2089激活下即可。
